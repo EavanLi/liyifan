@@ -24,13 +24,13 @@ repository               : "eavanli/liyifan/"
 author:
   # Biographic information
   avatar           : "/images/liyifan.JPG"
-  name             : "Your Sidebar Name"
+  name             : "李艺帆"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "人工智能学院讲师"
+  location         : "北京，中国"
+  employer         : "首都经济贸易大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liyifan@cueb.edu.cn" 
 
   # Academic websites
   academia         : # URL
