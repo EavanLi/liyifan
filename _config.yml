@@ -23,7 +23,7 @@ repository               : "eavanli.github.io/liyifan/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "C:\\Users\\18066\\Pictures\\liyifan.JPG"
+  avatar           : "/images/liyifan.JPG"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
