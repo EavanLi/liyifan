@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /  # 保持不变
 title: "李艺帆的个人主页"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 ## 关于我
