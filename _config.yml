@@ -30,3 +30,17 @@ author:
   employer         : "首都经济贸易大学"
   uri              : # URL
   email            : "liyifan@cueb.edu.cn" 
+
+# 强制指定主页
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: "_pages/index.md"
+    values:
+      permalink: /
+
+  
