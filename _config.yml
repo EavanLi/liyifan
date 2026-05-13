@@ -23,7 +23,7 @@ repository               : "eavanli/liyifan/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/liyifan.JPG"
+  avatar           : "https://eavanli.github.io/liyifan/images/liyifan.JPG"
   name             : "李艺帆"
   bio              : "讲师"
   location         : "北京，中国"
